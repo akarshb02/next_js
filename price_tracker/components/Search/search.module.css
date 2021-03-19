@@ -1,0 +1,13 @@
+.coin_search {
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.coin_input {
+    border: 0.1px solid;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: larger;
+}
